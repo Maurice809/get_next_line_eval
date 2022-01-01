@@ -6,7 +6,7 @@ Tous les fichiers sont a la "Norminette"
 Utlisation : 
 
 ```sh
-curl -O https://raw.githubusercontent.com/Maurice809/ft_printf_tester/main/eval.sh
+curl -O https://raw.githubusercontent.com/Maurice809/get_next_line_eval/main/eval.sh
 ```
 
 Cordilement
